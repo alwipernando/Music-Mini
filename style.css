@@ -134,3 +134,10 @@ body {
         transform: rotateZ(360deg);
     }
 }
+
+@media (max-width: 450px) {
+    html {
+        display: grid;
+        max-width: 300px;
+    }
+}
