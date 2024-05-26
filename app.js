@@ -1,19 +1,19 @@
 const songList = [
     {
-        name: "Tak Selalu",
-        artist: "Souljah",
+        name: "Pikirin kali👌",
+        artist: "Persiapan Senin",
         src: "assets/1.mp3",
         cover: "assets/1.jpg"
     },
     {
-        name: "Snap",
-        artist: "Unknow",
+        name: "Rindu di hati",
+        artist: "🥲😪",
         src: "assets/2.mp3",
         cover: "assets/1.jpg"
     },
     {
-        name: "somewhere",
-        artist: "Unknow",
+        name: "Tak Selalu",
+        artist: "Souljah",
         src: "assets/3.mp3",
         cover: "assets/1.jpg"
     },
